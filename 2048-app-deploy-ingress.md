@@ -16,4 +16,6 @@ eksctl create fargateprofile \
 kubectl apply -f https://raw.githubusercontent.com/kubernetes-sigs/aws-load-balancer-controller/v2.5.4/docs/examples/2048/2048_full.yaml
 ```
 
-![game-2048screenshot.png](https://github.com/Singhadi27/Containerized-Game-Deployment-on-AWS-EKS.git)
+
+![game-2048 screenshot](https://raw.githubusercontent.com/Singhadi27/Containerized-Game-Deployment-on-AWS-EKS/main/game-2048screenshot.png)
+
