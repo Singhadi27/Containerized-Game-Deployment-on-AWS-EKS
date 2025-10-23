@@ -1,4 +1,3 @@
-# Containerized-Game-Deployment-on-AWS-EKS
 # AWS EKS 
 
 ## Introduction
